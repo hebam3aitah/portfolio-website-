@@ -1,0 +1,48 @@
+.sec-top{
+  text-align: center; 
+  padding: 100px 500px;
+    gap: 20px;
+}
+.sec-top span{
+    font-size: 40px;
+    padding-bottom: 10px;
+    border-bottom: 4px solid ;
+    font-weight: 700;
+    text-transform: capitalize;
+
+}
+.about.content{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+
+}
+.about.content.text{
+    padding: 20px 60px 20px 20px;
+     width:50%  ;
+
+}
+.about.content.text h3{
+    color: #3f0909;
+   font-size: 28px;
+   margin-bottom: 15px;
+}
+.about.content.text span{
+    font-weight: 600;
+    line-height: 1.6;
+    font-size: 20px;
+ }
+ about.content.text p {
+    padding: 20px ;
+    line-height:1.6 ;
+
+ }
+ about.content .div-img{
+    width: 45%;
+
+ }
+ about.content .div-img img{
+    width: 100%;
+
+ }
