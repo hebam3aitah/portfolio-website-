@@ -1,0 +1,24 @@
+.nav-item a{
+    color: #761515;
+}
+
+
+
+
+
+.contener{
+    display: flex;
+    flex-direction: column;
+
+}
+.contant{
+    display: flex;
+    flex-direction: row;
+     gap: 50px;
+}
+.contant div{
+    display: flex;
+    flex-direction: column;
+     gap: 20px;
+
+}
